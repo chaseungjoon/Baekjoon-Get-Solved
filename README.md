@@ -25,3 +25,4 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+<img width="564" alt="image" src="https://github.com/chaseungjoon/Baekjoon-Get-Solved/assets/101884270/9a3c6862-5f33-4ea1-8d13-6e0e761909fa">
