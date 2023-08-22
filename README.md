@@ -13,7 +13,7 @@ git clone https://github.com/chaseungjoon/Baekjoon-Get-Solved.git
 
 #### 3) 프로젝트 디렉토리로 이동
 ```
-cd Baekjoon-Auto-Notion
+cd Baekjoon-Get-Solved
 ```
 
 #### 4) 필요 패키지 다운로드
